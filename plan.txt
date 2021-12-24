@@ -1,0 +1,14 @@
+---- Plan for this Project ----
+
+1. Data Collection
+2. Data Exploration
+3. Data Cleaning and Wrangling (If needed)
+4. Data Visualization
+5. Feature Selection
+6. Put Cleaned and Final Dataset into SQLite Database
+7. Create Basline Model with sklearn
+8. Try Model with Deep Learning (ANN, RNN or LSTM)
+9. Choose final Model after model evaluation
+10. Save Model
+11. Create GUI using Streamlit / Tensorflow.js
+12. Deploy on Heroku / GCP
