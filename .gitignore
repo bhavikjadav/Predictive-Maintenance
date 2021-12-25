@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 Dataset/
+pm_env/
+data_cleaning/*.csv
+data_visualization/*.csv
 
 # C extensions
 *.so
