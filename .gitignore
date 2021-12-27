@@ -6,6 +6,7 @@ Dataset/
 pm_env/
 data_cleaning/*.csv
 data_visualization/*.csv
+model_building/*.csv
 
 # C extensions
 *.so
